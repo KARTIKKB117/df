@@ -84,3 +84,13 @@ print("Report saved as:", report_file)
 
 # Suspicious_file.txt
 # This is a sample file for digital forensic investigation.
+
+Fo - Qstn1
+    Fo - Collected_Evidence
+        F - Suspicious_file.txt
+        F - system_log.txt
+    Fo - Evidence_Source 
+        F - Suspicious_file.txt
+        F - system_log.txt
+    F - qstn1.py
+
