@@ -64,3 +64,7 @@ print("=" * 40)
 file_path = input("Enter the path of the file: ")
 
 identify_file_type(file_path)
+
+# Fo - Qstn5
+#     F-qstn5.py
+#     F-sample.pdf - download samplepdf from google
