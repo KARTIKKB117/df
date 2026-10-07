@@ -63,7 +63,10 @@ Fo - Qstn3
     F-evidence.txt
     F-Modified.txt
     F-qstn3.py
+    F-qstn3_2.py
+
 cd Qstn3
 python qstn3.py
+
 
 
