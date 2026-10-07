@@ -116,3 +116,10 @@ def main():
 
 
 main() 
+
+  # Fo - Qstn2 
+  #   F- qstn2.py
+
+
+# pip install pillow pypdf 
+# select 1 image from files 
