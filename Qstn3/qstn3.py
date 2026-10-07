@@ -58,3 +58,12 @@ except FileNotFoundError:
 
 # except FileNotFoundError:
 #     print("File not found. Please check the file name.")
+
+Fo - Qstn3
+    F-evidence.txt
+    F-Modified.txt
+    F-qstn3.py
+cd Qstn3
+python qstn3.py
+
+
