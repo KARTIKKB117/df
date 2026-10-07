@@ -132,3 +132,15 @@ if __name__ == "__main__":
 # practical.
 # Evidence.txt.deleted - Evidence ID: DF001 This file is used for
 # recovery testing.
+
+Fo- Qstn4
+    Fo- Evidence_Source
+        F-Evidence.txt.deleted 
+        F-notes.txt.deleted
+    Fo- Recovered_Files 
+        F-Evidence.txt
+        F-notes.txt
+    F- qstn4.py
+
+cd 
+python filename 
